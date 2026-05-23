@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Ninshad 👋
 
-<!--
-**ninshad2004/ninshad2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Practitioner · Tool Builder · Founder**  
+📍 Kochi, Kerala → Open to remote & relocation worldwide  
+🔍 Actively seeking SOC Analyst / Junior Pen Tester / Security Analyst roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I've Built
+
+| Project | What it does | Stack |
+|---|---|---|
+| [KUMARAN](https://github.com/ninshad2004/Kumaran) | CLI network security scanner — ethical recon & risk scoring | Python, Nmap |
+| [Job Hunter Agent](https://job-hunter-agent-eight.vercel.app) | Live web app that automates job searching & filtering | HTML, JS, Vercel |
+| UPI SafeScan | AI-powered UPI QR fraud detection before payment | Python, TensorFlow |
+| Cyvron | Cybersecurity consultancy for SMBs in Kerala | FastAPI, Nuclei |
+
+---
+
+## ⚔️ Skills & Tools
+
+**Offensive:** Metasploit · Nmap · Burp Suite · Nikto · SQLMap · OWASP ZAP  
+**Defensive:** Wazuh · Splunk · Wireshark · Snort · ELK Stack · Sysmon  
+**Intel & Forensics:** MITRE ATT&CK · OSINT · YARA · Digital Forensics · CVSS v3.1  
+**Dev:** Python · Bash · PowerShell · Linux (Kali daily driver) · HTML/CSS/JS
+
+---
+
+## 📜 Certifications (In Progress)
+
+- 🎯 CEH v13 — EC-Council · Expected Aug 2026  
+- 🎯 CSA — EC-Council · Expected Oct 2026  
+- 🎯 CHFI — EC-Council · Expected Dec 2026
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ninshad-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ninshad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ninshadks.netlify.app-green?style=flat)](https://ninshadks.netlify.app)
+[![Email](https://img.shields.io/badge/Email-ninshadktl2004@gmail.com-red?style=flat&logo=gmail)](mailto:ninshadktl2004@gmail.com)
+
+> 💡 *21 · Fresher · Building in public · Open to anywhere*
